@@ -5,7 +5,9 @@
 <img src="/微信图片_20181130142011.jpg" width="400" height="400">
 <br/>
 <br/>
-<div align=center> 
-<img src="/微信图片_20181130142020.jpg" width="800" height="2500">
-<br/>
-
+.bg{
+  background-image: url(微信图片_20181130142020.jpg);//此为图片地址
+  background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+}
