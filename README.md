@@ -10,3 +10,8 @@
 <br/>
 <center>**点击图片查看详细内容**</center>
 <br/>
+<br/>
+<br/>
+<div align=center> 
+<img src="/微信图片_20181130142020.jpg" width="400" height="400">
+<br/>
