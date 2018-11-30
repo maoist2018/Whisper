@@ -6,6 +6,6 @@
 <br/>
 <br/>
 <div align=center> 
-<img src="/微信图片_20181130142020.jpg" width="800" height="4000">
+<img src="/微信图片_20181130142020.jpg" width="800" height="2500">
 <br/>
-# 如果有一天，我也在北大医学部“被失踪”
+
